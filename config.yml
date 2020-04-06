@@ -6,7 +6,7 @@
 # If you incorrectly configure the file, please just delete it and it will regenterate itself.
 # You can look at the Spigot page for permissions info!
 # Thanks for using this plugin!
-# Copyright, HyperGames MC 2019©
+# Copyright, HyperGames MC 2019Â©
 # All rights reserved.
 # Join us at hypergamesmc.net today! We support MC versions 1.7 - 1.14.
 
@@ -20,30 +20,5 @@ no-swear-message: "&cPlease do not say this word! It is against this server's ru
 
 # Here you can configure the words that are blacklisted. There is some in default, but you can remove and replace as you wish.
 blacklisted-words:
-    - fuck
-    - shit
-    - dick
-    - dik
-    - dic
-    - arse
-    - arsehole
-    - ass
-    - asshole
-    - pussy
-    - penis
-    - vagina
-    - wanka
-    - wank
-    - wanker
-    - nigga
-    - nigger
-    - cunt
-    - cock
-    - bastard
-    - bitch
-    - fucking
-    - vaginal
-    - sex
-    - sexy
-    - nob
-    - nobhead
+    - example1
+    - example2
