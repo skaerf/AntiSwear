@@ -1,0 +1,49 @@
+# Welcome to the AntiSwear Config File!
+# In messages, you may use chat colors and more!
+# You can find a list of color codes at http://ess.khhq.net/mc/
+# Please do not redistribute this plugin without the consent of FreakyPear5.
+# You may message him at https://discord.gg/6wKCMkk if assistance is required.
+# If you incorrectly configure the file, please just delete it and it will regenterate itself.
+# You can look at the Spigot page for permissions info!
+# Thanks for using this plugin!
+# Copyright, HyperGames MC 2019©
+# All rights reserved.
+# Join us at hypergamesmc.net today! We support MC versions 1.7 - 1.14.
+
+
+# Here you can configure the prefix that will be shown in chat when a person attempts to swear!
+# Bear in mind, this prefix will be before every message.
+prefix: '&8[&a&lANTISWEAR&8]'
+
+# Here you can configure the message that people recieve when they are prevented from saying a blacklisted word!
+no-swear-message: "&cPlease do not say this word! It is against this server's rules."
+
+# Here you can configure the words that are blacklisted. There is some in default, but you can remove and replace as you wish.
+blacklisted-words:
+    - fuck
+    - shit
+    - dick
+    - dik
+    - dic
+    - arse
+    - arsehole
+    - ass
+    - asshole
+    - pussy
+    - penis
+    - vagina
+    - wanka
+    - wank
+    - wanker
+    - nigga
+    - nigger
+    - cunt
+    - cock
+    - bastard
+    - bitch
+    - fucking
+    - vaginal
+    - sex
+    - sexy
+    - nob
+    - nobhead

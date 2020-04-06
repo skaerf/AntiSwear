@@ -1,0 +1,9 @@
+name: AntiSwear
+version: 1.13
+main: net.hypergamesmc.antiswear.Main
+description: A fully prepared AntiSwear plugin! Copyright, HyperGames MC 2019©
+
+commands:
+    antiswear:
+        usage: /<command> info/blacklisted - Shows info / Shows all blacklisted words
+        aliases: [as]
